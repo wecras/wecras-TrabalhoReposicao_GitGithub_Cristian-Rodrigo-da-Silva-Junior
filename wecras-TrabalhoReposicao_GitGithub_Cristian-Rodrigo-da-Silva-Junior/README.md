@@ -38,3 +38,6 @@ Atualiza sua branch local com alterações do remoto.
 git log --oneline
 
 Mostra o histórico de commits de forma resumida.
+
+## Alteração realizada na branch-teste
+Esta linha foi adicionada apenas para demonstrar o uso de branchs.
